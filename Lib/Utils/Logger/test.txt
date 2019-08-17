@@ -1,0 +1,10 @@
+{
+    "epoch0": {
+        "hello": "world",
+        "AI": "artificial"
+    },
+    "epoch1": {
+        "deep": "learning",
+        "reinforcement": "learning"
+    }
+}
